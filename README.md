@@ -4,6 +4,7 @@
 1. Установите расширение Tampermonkey: https://www.tampermonkey.net/
 2. Нажмите [сюда для установки](https://raw.githubusercontent.com/EdgarAllanPoh/VKPlayerChange/main/VKPlayerChange.user.js) (Если не открывается, отключите/включите VPN)
 3. Нажмите "Установить"
+Если не отображается кнопка после установки, нужно включить "Режим разработчика" в браузере - https://www.tampermonkey.net/faq.php?q=Q209#Q209
 
 ## Использование
 - Откройте любой стрим на VK Видео Live
@@ -15,7 +16,6 @@
 - YouTube, Twitch, Kick
 - Кнопка возврата к VK плееру
 
+ 
 
-## Если не отображается кнопка после установки 
-Нужно включить "Режим разработчика" в браузере - https://www.tampermonkey.net/faq.php?q=Q209#Q209
 
