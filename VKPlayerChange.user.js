@@ -180,10 +180,8 @@
             button.style.transform = 'translateY(0)';
         };
         button.onclick = () => {
-            if (confirm('Вернуться к оригинальному плееру VK? Страница будет перезагружена.')) {
-                localStorage.removeItem(CONFIG.storageKey);
-                location.reload();
-            }
+            localStorage.removeItem(CONFIG.storageKey);
+            location.reload();
         };
         return button;
     }
