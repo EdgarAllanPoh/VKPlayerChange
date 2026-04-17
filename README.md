@@ -2,7 +2,7 @@
 
 ## Установка
 1. Установите Tampermonkey: https://www.tampermonkey.net/
-2. Нажмите [сюда для установки](https://raw.githubusercontent.com/EdgarAllanPoh/репозиторий/main/script.user.js)
+2. Нажмите [сюда для установки](https://raw.githubusercontent.com/EdgarAllanPoh/VKPlayerChange/main/VKPlayerChange.user.js)
 3. Нажмите "Установить"
 
 ## Использование
