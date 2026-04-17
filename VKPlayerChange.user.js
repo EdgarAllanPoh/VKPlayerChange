@@ -378,7 +378,7 @@
 
         const content = document.createElement('div');
         content.style.cssText = `
-            background: white;
+            background: #2b2b2c;
             border-radius: 12px;
             padding: 24px;
             width: 400px;
