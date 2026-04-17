@@ -4,11 +4,7 @@
 // @version      1.8
 // @description  Заменяет плеер VK Live на плеер Kick, YouTube или Twitch
 // @author       Assistant
-// @match        *://vk.com/video*
-// @match        *://vkvideo.ru/video*
 // @match        https://live.vkvideo.ru/*
-// @match        https://vkvideo.ru/*
-// @match        https://*.vkvideo.ru/*
 // @grant        none
 // ==/UserScript==
 
