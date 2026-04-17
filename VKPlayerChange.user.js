@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         VK Video Live - Смена плеера (с отслеживанием навигации)
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.0
 // @description  Заменяет плеер VK Live на плеер Kick, YouTube или Twitch
 // @author       Assistant
 // @match        https://live.vkvideo.ru/*
