@@ -1,8 +1,8 @@
 # VK Video Live - Смена плеера
 Полный бредик на случай если вы хотите смотреть стрим с нормальным плеером, но оставаться при этом в чате VK
 ## Установка
-1. Установите Tampermonkey: https://www.tampermonkey.net/
-2. Нажмите [сюда для установки](https://raw.githubusercontent.com/EdgarAllanPoh/VKPlayerChange/main/VKPlayerChange.user.js)
+1. Установите расширение Tampermonkey: https://www.tampermonkey.net/
+2. Нажмите [сюда для установки](https://raw.githubusercontent.com/EdgarAllanPoh/VKPlayerChange/main/VKPlayerChange.user.js) (Если не открывается, отключите/включите VPN)
 3. Нажмите "Установить"
 
 ## Использование
